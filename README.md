@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swa-kn
+- 👋 Hi, I’m @Swaroop-kn
 - 👀 I’m interested in Devops,Devlopment,and code.
 - 🌱 I’m currently learning Devops tools
 - 💞️ I’m looking to collaborate on Devops
